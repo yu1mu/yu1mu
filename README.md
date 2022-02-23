@@ -13,7 +13,7 @@
 
 <div align=center>
   
-![yu1mu's GitHub stats](https://github-readme-stats.vercel.app/api?username=yu1mu&count_private=true)
+![yu1mu's GitHub stats](https://github-readme-stats.vercel.app/api?username=yu1mu&count_private=true&theme=flag-india)
 </div>
 
 <p align="center">
