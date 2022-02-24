@@ -9,6 +9,7 @@
   <br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Java-FF7800?style=flate&logo=Java&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/></a>&nbsp
  </p>
 
 <div align=center>
