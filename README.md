@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyu1mu&count_bg=%23A8ECE7&title_bg=%23D47AE8&icon=symantec.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a><br>
-  <img src="https://img.shields.io/badge/TechBlog-181717?style=flate&logo=GitHub&logoColor=white&link=https://yu1mu.github.io/"/></a>&nbsp
+  <a href ="https://yu1mu.github.io"><img src="https://img.shields.io/badge/TechBlog-181717?style=flate&logo=GitHub&logoColor=white"/></a>&nbsp
   <a href="mailto:all0fus168@gmail.com"><img src="https://img.shields.io/badge/Mail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:all0fus168@gmail.com"/></a>
   </p>
   
