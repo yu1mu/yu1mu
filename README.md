@@ -2,6 +2,10 @@
 <br><br>
 <h3 align="center">⚙ Tech Stack ⚙</h3>
 <p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=Cplusplus&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=Csharp&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=Unity&logoColor=black"/></a>&nbsp
+  <br>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/></a>&nbsp
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white"/></a>&nbsp
